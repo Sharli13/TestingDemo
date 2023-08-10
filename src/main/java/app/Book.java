@@ -1,5 +1,7 @@
 package app;
 
+//dummy statement
+
 public class Book {
 	private int isbn;
 	private String title;
